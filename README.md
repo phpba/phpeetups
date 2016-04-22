@@ -6,6 +6,8 @@ O evento é um encontro promovido pelo PHPBA que tem como principal objetivo: re
 
 É um evento sem fins lucrativos, **feito pela** comunidade **para* a comunidade.
 
+> Veja uma coletânea dos eventos já ocorridos [clicando aqui](eventos_passados.md).
+
 ## Quero participar
 
 Quer participar do evento? Massa! Basta se inscrever!!
