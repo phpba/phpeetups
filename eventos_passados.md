@@ -6,10 +6,10 @@ Aqui é uma coletânea de algumas informações dos eventos passados e links par
 
 ### 1° PHPeetup
 
-Dia: 09.04.2016
-Horário: 13h às 18h
-Quantidade de palestras: 3
-Quantidade de ligth talks: 2
+* Dia: 09.04.2016
+* Horário: 13h às 18h
+* Quantidade de palestras: 3
+* Quantidade de ligth talks: 2
 
 Links:
 
@@ -19,10 +19,12 @@ Links:
 
 ### 2° PHPeetup
 
-Dia: 21.05.2016
-Horário: 9h às 18h
-Quantidade de palestras: 
-Quantidade de ligth talks: 
+> P.S.: Dados incompletos pois será o próximo!! :)
+
+* Dia: 21.05.2016
+* Horário: 9h às 18h
+* Quantidade de palestras: 
+* Quantidade de ligth talks: 
 
 Links:
 
