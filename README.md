@@ -4,7 +4,7 @@
 
 O evento é um encontro promovido pelo PHPBA que tem como principal objetivo: reunir estudantes, profissionais e entusiastas **principalmente** - mas não limitado - da linguagem PHP.
 
-É um evento sem fins lucrativos, **feito pela** comunidade **para* a comunidade.
+É um evento sem fins lucrativos, **feito pela** comunidade **para** a comunidade.
 
 > Veja uma coletânea dos eventos já ocorridos [clicando aqui](eventos_passados.md).
 
